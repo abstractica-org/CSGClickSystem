@@ -1,5 +1,4 @@
 # CSGClickSystem
-CSGClickSystem
 
 **CSGClickSystem** is a definition of clickers and clicker holes, that are usefull for creating 3D printed parts that can be easily connected. CSGClickSystem is dependent on [JavaCSG](https://github.com/abstractica-org/JavaCSG)
 
